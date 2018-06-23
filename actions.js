@@ -46,9 +46,9 @@ const installPlugin = (args) => {
     shell.exec(`git clone ${verb} ${base}/${args.repo}`)
 }
 
-const createWordPressErrorLogger = (args) => {
-    const 
-}
+// const createWordPressErrorLogger = (args) => {
+//     const 
+// }
 
 module.exports = { 
    newProject,
