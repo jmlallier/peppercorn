@@ -1,12 +1,12 @@
 {
-  "name": "pepper",
-  "version": "0.0.1",
+  "name": "@jm/pepper",
+  "version": "0.0.2",
   "description": "For making daily Mediavine tasks easier",
   "bin": "./app.js",
   "author": {
-    "name" : "John-Michael L'Allier", 
-    "email" : "jmlallier@me.com", 
-    "url" : "http://jmlallier.com"
+    "name": "John-Michael L'Allier",
+    "email": "jmlallier@me.com",
+    "url": "http://jmlallier.com"
   },
   "repository": "github:jmlallier/peppercorn",
   "license": "MIT",
