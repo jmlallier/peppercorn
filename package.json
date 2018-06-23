@@ -1,5 +1,5 @@
 {
-  "name": "@jmlallier/pepper",
+  "name": "mv-pepper",
   "version": "0.1.1",
   "description": "For making daily Mediavine tasks easier",
   "bin": "./app.js",
